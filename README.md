@@ -57,18 +57,18 @@ Here are examples of how the input files should be formatted:
 ```
 rows=3
 cols=3
-(3, 3, 4)
-(4, 4, 5)
-(5, 5, 6)
+(0, 1, 4)
+(1, 0, 6)
+(2, 2, 5)
 ```
 
 `matrix2.txt`:
 ```
 rows=3
 cols=3
-(2, 2, 7)
-(3, 3, 8)
-(4, 4, 9)
+(0, 0, 1)
+(0, 2, 7)
+(3, 0, 5)
 ```
 
 ### Features
